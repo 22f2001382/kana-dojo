@@ -957,7 +957,7 @@
     "note": "Prohibitive nuance. (Set 5)",
     "id": 96,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "なんくるないさ",
@@ -966,7 +966,7 @@
     "region": "Okinawa",
     "note": "Famous Okinawan resilience phrase. (Set 5)",
     "id": 97,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
