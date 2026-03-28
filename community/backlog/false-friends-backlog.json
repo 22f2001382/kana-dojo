@@ -96,7 +96,7 @@
     "example": "ノートにシールを貼った。",
     "id": 11,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "ホッチキス (hocchikisu)",
@@ -276,7 +276,7 @@
     "example": "ノートにシールを貼った。",
     "id": 31,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "ホッチキス (hocchikisu)",
@@ -464,7 +464,7 @@
     "explanation": "ホッチキス means stapler. (Set 3)",
     "example": "資料をホッチキスで留めてください。",
     "id": 52,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -636,7 +636,7 @@
     "example": "ノートにシールを貼った。",
     "id": 71,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "ホッチキス (hocchikisu)",
@@ -816,7 +816,7 @@
     "example": "ノートにシールを貼った。",
     "id": 91,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "ホッチキス (hocchikisu)",
@@ -996,7 +996,7 @@
     "example": "ノートにシールを貼った。",
     "id": 111,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "ホッチキス (hocchikisu)",
